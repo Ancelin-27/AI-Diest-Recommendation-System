@@ -1,0 +1,42 @@
+{
+  "vegetarian": {
+    "weight_loss": {
+      "breakfast": ["Oats"],
+      "lunch": ["Brown Rice"],
+      "snacks": ["Nuts"],
+      "dinner": ["Soup"]
+    },
+    "weight_gain": {
+      "breakfast": ["Milk"],
+      "lunch": ["Rice"],
+      "snacks": ["Dry Fruits"],
+      "dinner": ["Chapati"]
+    },
+    "maintenance": {
+      "breakfast": ["Idli"],
+      "lunch": ["Rice"],
+      "snacks": ["Fruit"],
+      "dinner": ["Dal"]
+    }
+  },
+  "non_vegetarian": {
+    "weight_loss": {
+      "breakfast": ["Eggs"],
+      "lunch": ["Chicken Salad"],
+      "snacks": ["Fruit"],
+      "dinner": ["Fish"]
+    },
+    "weight_gain": {
+      "breakfast": ["Eggs"],
+      "lunch": ["Chicken Rice"],
+      "snacks": ["Nuts"],
+      "dinner": ["Fish Curry"]
+    },
+    "maintenance": {
+      "breakfast": ["Eggs"],
+      "lunch": ["Chicken Curry"],
+      "snacks": ["Fruit"],
+      "dinner": ["Fish Curry"]
+    }
+  }
+}
